@@ -1,0 +1,61 @@
+1. Introduction to DBMS
+A Database Management System (DBMS) is software that is used to store, manage, and retrieve
+data efficiently. It acts as an interface between users and the database. DBMS ensures data
+security, consistency, and integrity.
+2. Characteristics of DBMS
+• Data Abstraction
+• Data Independence
+• Efficient Data Access
+• Security & Authorization
+• Backup & Recovery
+3. DBMS Architecture
+DBMS generally follows a 3-level architecture:
+• External Level: User view of data
+• Conceptual Level: Logical structure of database
+• Internal Level: Physical storage structure
+4. Data Models
+Common types of data models include:
+• Hierarchical Model
+• Network Model
+• Relational Model
+• Object-Oriented Model
+5. Keys in DBMS
+• Primary Key
+• Candidate Key
+• Foreign Key
+• Composite Key
+• Super Key
+6. Normalization
+Normalization is the process of organizing data to reduce redundancy and improve integrity.
+Normal forms:
+• 1NF
+• 2NF
+• 3NF
+• BCNF
+7. SQL (Structured Query Language)
+SQL is used for interacting with the database.
+Types of SQL commands:
+• DDL – CREATE, ALTER, DROP
+• DML – INSERT, UPDATE, DELETE
+• DCL – GRANT, REVOKE
+• TCL – COMMIT, ROLLBACK
+8. Transactions & ACID Properties
+A transaction is a logical unit of work. ACID properties ensure reliability:
+• Atomicity
+• Consistency
+• Isolation
+• Durability
+9. Indexing
+Indexing improves the speed of data retrieval. Types include:
+• Primary Index
+• Secondary Index
+• Clustered Index
+• Non-clustered Index
+10. DBMS vs RDBMS
+RDBMS is an advanced version of DBMS that stores data in tables and supports relationships.
+11. Examples of DBMS
+• MySQL
+• Oracle
+• PostgreSQL
+• SQL Server
+• MongoDB
